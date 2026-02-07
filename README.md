@@ -53,9 +53,9 @@ RegisterNumber: 25018064
 ```
 
 ## Output:
-(i)
+
 ![WhatsApp Image 2026-02-07 at 8 46 05 AM](https://github.com/user-attachments/assets/a2119e79-5717-4221-8d56-63ddb38ded7b)
-(ii)
+
 ![WhatsApp Image 2026-02-07 at 8 46 23 AM](https://github.com/user-attachments/assets/0522a641-e363-4187-ae24-afad53bd29a6)
 
 ## Result:
